@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-478
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-450
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-480
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-480
+			],
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/rupert",
+	"position": [
+		-80,
+		-40
+	],
+	"healthicon": "rup",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		70,
+		37
+	],
+	"camera_position": [
+		-80,
+		460
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

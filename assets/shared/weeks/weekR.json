@@ -1,0 +1,32 @@
+{
+	"storyName": "Lost lovers",
+	"difficulties": "corrupt, og",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lost-lovers",
+			"rup",
+			[
+				215,
+				93,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "LL"
+}

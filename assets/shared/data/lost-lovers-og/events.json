@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"badapplelol",
+						"a",
+						"1"
+					]
+				]
+			],
+			[
+				12700,
+				[
+					[
+						"badapplelol",
+						"b",
+						"1"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				77000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				77100,
+				[
+					[
+						"Play Animation",
+						"talk1",
+						"BF"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Play Animation",
+						"talk2",
+						"BF"
+					]
+				]
+			],
+			[
+				83600,
+				[
+					[
+						"Play Animation",
+						"talk3",
+						"BF"
+					]
+				]
+			],
+			[
+				86900,
+				[
+					[
+						"Play Animation",
+						"talk4",
+						"BF"
+					]
+				]
+			],
+			[
+				90400,
+				[
+					[
+						"Play Animation",
+						"talk5",
+						"BF"
+					]
+				]
+			],
+			[
+				93300,
+				[
+					[
+						"Play Animation",
+						"talk6",
+						"BF"
+					]
+				]
+			],
+			[
+				96900,
+				[
+					[
+						"Play Animation",
+						"talk7",
+						"BF"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"stage test",
+						"bedroom2",
+						""
+					]
+				]
+			],
+			[
+				104800,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"rupert-monster"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"BF",
+						"stewie2"
+					]
+				]
+			],
+			[
+				131100,
+				[
+					[
+						"stage test",
+						"white",
+						""
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			]
+		]
+	}
+}
